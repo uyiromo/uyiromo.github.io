@@ -5,7 +5,7 @@
 
 - Ph.D student (2020/04 - ) at Graduate School of Fundemental Science and Engineering, Waseda University
   - also Research Associates (2021/04 - ) at Department of Computer Science and Engineering
-- I received B.E and M.E in Compute Science and Engeneering from Waseda University in 2019 and 2020, respectively.
+- I received B.E and M.E from Waseda University in 2019 and 2020, respectively.
 - My research topic is **RISC-V**, **NVMM (Non-Volatle Main Memory)**, **TEE (Trusted Execution Environment)**
 - My interests are in cloud computing, virtualization, compilers, infrastructures (low-layer technologies).
 - **Creating new frameworks or libraries are attracts me more than only using them**
