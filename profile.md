@@ -6,7 +6,7 @@
 - Ph.D student (2020/04 - ) at Graduate School of Fundemental Science and Engineering, Waseda University
   - also Research Associates (2021/04 - ) at Department of Computer Science and Engineering
 - I received B.E and M.E from Waseda University in 2019 and 2020, respectively.
-- My research topic is **RISC-V**, **NVMM (Non-Volatle Main Memory)**, **TEE (Trusted Execution Environment)**
+- My research topics are **RISC-V**, **NVMM (Non-Volatle Main Memory)**, **TEE (Trusted Execution Environment)**
 - My interests are in cloud computing, virtualization, compilers, infrastructures (low-layer technologies).
 - **Creating new frameworks or libraries are attracts me more than only using them**
 
@@ -17,7 +17,7 @@
 - [Supervised by Prof. Keiji Kimura](http://www.apal.cs.waseda.ac.jp/kimura/index.html)
 
 # Research Theme
-- Secure Execution Environment
+- Secure Execution Environment using TEE especially RISC-V Keystone
 
 ## keywords
 - RISC-V
@@ -46,7 +46,7 @@
 2. [_**Yu Omori**_, Keiji Kimura, "Non-Volatile Main Memory Emulator for Embedded Systems Employing Three NVMM Behaviour Models IEICE TRANSACTIONS on Information and Systems", IEICE Transactions on Information and Systems, Vol. E104-D, No. 5, pp.697-708, May. 2021.](https://doi.org/10.1587/transinf.2020EDP7092)
 
 ## WITHOUT Proofreading
-1. [_**大森　侑**_、木村　啓二, "不揮発性メインメモリエミュレータの評価", ETNET2019, Mar. 2019.](https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_uri&item_id=195099)
+1. [_**大森 侑**_、木村 啓二, "不揮発性メインメモリエミュレータの評価", ETNET2019, Mar. 2019.](https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_uri&item_id=195099)
 2. [林 知輝, _**大森 侑**_, 木村 啓二, "整合性ツリーおよび暗号化機構を持つ不揮発性メインメモリエミュレータの実装", ETNET2021, Mar. 2021.](https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_uri&item_id=210451)
 3. [_**大森 侑**_, 木村 啓二, "Linuxが動作可能なRISC-V NVMMエミュレータの実装", ETNET2021, Mar., 2021.](https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_uri&item_id=210450)
 
@@ -56,7 +56,7 @@
 3. 2021/04 : IEICE CPSY Presentation Award for Excellent Young Researcher
 4. 2021/06 : IEEE-HKN Key Chapter Award
 
-## Thesis
+## theses
 - Bechelor (2019/03) : 「FPGA上への不揮発性メインメモリ評価環境実装」
 - Master (2020/03) : 「粗粒度及び細粒度遅延挿入による組み込み向け不揮発性メインメモリエミュレータの実装」
 
