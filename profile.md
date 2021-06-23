@@ -60,6 +60,10 @@
 - Bechelor (2019/03) : 「FPGA上への不揮発性メインメモリ評価環境実装」
 - Master (2020/03) : 「粗粒度及び細粒度遅延挿入による組み込み向け不揮発性メインメモリエミュレータの実装」
 
+# Contacts
+![](https://user-images.githubusercontent.com/19767885/123014980-553cc080-d402-11eb-9f2e-3c9f150c5dc6.jpg)
+
+
 # Links
 - [researchermap](https://researchmap.jp/yuomori)
 - [LinkedIn](https://www.linkedin.com/in/yu-omori-269987191/)
