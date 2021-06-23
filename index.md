@@ -2,6 +2,7 @@
 - This site introduces my profile and research publication.
 - **Still under construction**
 
-## My Profile
+## [My Profile](https://uyiromo.github.io/profile)
+
 ## Research Publication
 - RISC-V SoC with NVMM emulation using the Freedom SoC
