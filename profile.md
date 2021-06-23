@@ -9,7 +9,6 @@
 - **Creating new frameworks or libraries are attracts me more than only using them**
 
 <br clear="all">
-</br>
 
 # Laboratory
 - [Kimura laboratory, Waseda University](http://www.apal.cs.waseda.ac.jp/)
