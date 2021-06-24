@@ -1,3 +1,8 @@
+---
+title: Profile
+layout: default
+---
+
 [**Go to Top Page**](https://uyiromo.github.io)
 
 # Short bio
@@ -34,11 +39,12 @@
 - IPSJ (2021.07 - )
 
 # Educational Background
-- 2013/04 - 2014/03 : Yamanashi Prefectural Kofu-Nishi High School
-- 2015/04 - 2019/03 : Waseda University School of Fundamental Science and Engineering
-- 2019/04 - 2020/03 : Waseda University Graduate School of Fundamental Science and Engineering (Master Course)
-  - Early graduation by 1 year because of excellent grades and achievements
-- 2020/04 - Now     : Waseda University Graduate School of Fundamental Science and Engineering (Ph.D Course)
+- 2013/04 - 2014/03 : Yamanashi Prefectural Kofu-Nishi High School, Japan
+- 2015/04 - Now : Waseda University, Japan
+  - 2015/04 - 2019/03 : School of Fundamental Science and Engineering
+  - 2019/04 - 2020/03 : Graduate School of Fundamental Science and Engineering (Master Course)
+    - Early graduation by 1 year because of excellent grades and achievements
+  - 2020/04 - Now     : Graduate School of Fundamental Science and Engineering (Ph.D Course)
 
 # Achievements
 ## WITH Proofreading
