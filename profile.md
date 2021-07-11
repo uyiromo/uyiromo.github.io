@@ -17,6 +17,19 @@ layout: default
 
 <br clear="all">
 
+# Programming Skills
+- C
+- C++
+  - beginner
+- Scala/Chisel (RISC-V SoC)
+- Rust
+  - beginner
+- Java (Certificated Programmer Gold)
+- Python
+  - beginner
+
+
+
 # Laboratory
 - [Kimura laboratory, Waseda University](http://www.apal.cs.waseda.ac.jp/)
 - [Supervised by Prof. Keiji Kimura](http://www.apal.cs.waseda.ac.jp/kimura/index.html)
@@ -37,6 +50,7 @@ layout: default
 - IEEE (2017.08 - )
 - IEEE HKN (Eta Kappa Nu) Mu Tau Chapter (2017.08 - )
 - IPSJ (2021.07 - )
+  - ARC (2021.07 - )
 
 # Educational Background
 - 2013/04 - 2014/03 : Yamanashi Prefectural Kofu-Nishi High School, Japan
