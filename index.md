@@ -6,3 +6,4 @@
 
 ## Research Publication
 - RISC-V SoC with NVMM emulation using the Freedom SoC
+  - [Usage](https://uyiromo.github.io/vc707nvmm)
