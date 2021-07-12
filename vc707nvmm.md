@@ -259,6 +259,7 @@ sudo ./sgdisk_sd.sh
 ```
 
 - When the script completed successfully, `sudo gdisk -l` will show like this:
+
 ```shell
 Disk /dev/sdX: 14.87 GiB, 15962472448 bytes, 31176704 sectors
 Units: sectors of 1 * 512 = 512 bytes
