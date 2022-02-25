@@ -11,7 +11,7 @@ layout: default
 - Ph.D student (2020/04 - ) at Graduate School of Fundemental Science and Engineering, Waseda University
   - also Research Associates (2021/04 - ) at Department of Computer Science and Engineering
 - I received B.E and M.E from Waseda University in 2019 and 2020, respectively.
-- My research topics are **RISC-V**, **NVMM (Non-Volatle Main Memory)**, **TEE (Trusted Execution Environment)**
+- My research topics are **RISC-V**, **NVMM (Non-Volatle Main Memory)**, **TEE (Trusted Execution Environment)**, **Memory Protection Engine based on Integrity Tree**
 - My interests are in cloud computing, virtualization, compilers, infrastructures (low-layer technologies).
 - **Creating new frameworks or libraries are attracts me more than only using them**
 
@@ -87,3 +87,4 @@ layout: default
 # Links
 - [researchermap](https://researchmap.jp/yuomori)
 - [LinkedIn](https://www.linkedin.com/in/yu-omori-269987191/)
+- [Qiita](https://qiita.com/uyiromo)
