@@ -57,7 +57,7 @@ layout: default
 - 2015/04 - Now : Waseda University, Japan
   - 2015/04 - 2019/03 : School of Fundamental Science and Engineering
   - 2019/04 - 2020/03 : Graduate School of Fundamental Science and Engineering (Master Course)
-    - Early graduation by 1 year because of excellent grades and achievements
+    - **I was certified as excellent student and researcher, and graduate Master Coarse in 1 year !**
   - 2020/04 - Now     : Graduate School of Fundamental Science and Engineering (Ph.D Course)
 
 # Achievements
@@ -69,6 +69,8 @@ layout: default
 1. [_**大森 侑**_、木村 啓二, "不揮発性メインメモリエミュレータの評価", ETNET2019, Mar. 2019.](https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_uri&item_id=195099)
 2. [林 知輝, _**大森 侑**_, 木村 啓二, "整合性ツリーおよび暗号化機構を持つ不揮発性メインメモリエミュレータの実装", ETNET2021, Mar. 2021.](https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_uri&item_id=210451)
 3. [_**大森 侑**_, 木村 啓二, "Linuxが動作可能なRISC-V NVMMエミュレータの実装", ETNET2021, Mar., 2021.](https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_uri&item_id=210450)
+4. [ Lena Yu, ***Yu Omori***, Keiji Kimura, "Prototype Implementation of Non-Volatile Memory Support for RISC-V Keystone Enclave", SWoPP2021, Jul. 2021. ](https://www.ieice.org/ken/paper/20210720TC4K/)
+
 
 ## Awards
 1. 2018/07 : IEEE HKN Member Certification
