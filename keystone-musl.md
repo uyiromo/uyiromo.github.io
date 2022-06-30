@@ -22,11 +22,12 @@ layout: default
 - Download pre-built toolchain
     - **[NOTICE] AS LONG AS WE TESTED, 11.2.1 (latest stable as of Jun. 30, 2022) DOES NOT WORK AS EXPECTED**
         - Specifically, `-static` option does not generate completely a static-linked binary
+- You can find musl-toolchains at `<riscv64-linux-musl-cross>/bin/`
+
 ```shell
 curl -S https://more.musl.cc/10.2.1/x86_64-linux-musl/riscv64-linux-musl-cross.tgz
 tar -zxf riscv64-linux-musl-cross.tgz
 ```
-- Now, you can find musl-toolchains at `<riscv64-linux-musl-cross>/bin/`
 
 
 
@@ -34,7 +35,8 @@ tar -zxf riscv64-linux-musl-cross.tgz
 - You must configure the keystone-sdk to use the musl toolchains
 - `<keystone-sdk>/macros.cmake`
     - We recommend you to use the absolute path in `cross_compile` or set `PATH` correctly in advance
-```
+
+```shell
 diff --git a/macros.cmake b/macros.cmake
 index 34a53cd..a29a05f 100644
 --- a/macros.cmake
@@ -58,6 +60,7 @@ index 34a53cd..a29a05f 100644
   - We can avoid the error by static linking
 
 - `<keystone-sdk>/macros.cmake`
+
 ```shell
 diff --git a/macros.cmake b/macros.cmake
 index 34a53cd..a29a05f 100644
@@ -75,6 +78,7 @@ index 34a53cd..a29a05f 100644
 ```
 
 - `<keystone-sdk>/examples/hello/CMakeLists.txt`
+
 ```shell
 diff --git a/examples/hello/CMakeLists.txt b/examples/hello/CMakeLists.txt
 index 9f5ee48..9e4c1b8 100644
@@ -91,6 +95,7 @@ index 9f5ee48..9e4c1b8 100644
 ```
 
 - `<keystone-sdk>/examples/tests/CMakeLists.txt` (Optional)
+
 ```shell
 diff --git a/examples/tests/CMakeLists.txt b/examples/tests/CMakeLists.txt
 index 837013f..3b22e8d 100644
@@ -137,6 +142,7 @@ index b4a7df6..18a151d 100644
 ## 4. Build keystone-sdk and examples
 - You must compile whole keystone-sdk with musl toolchains
 - Follow [the keystone-sdk instructions](https://github.com/keystone-enclave/keystone-sdk):
+
 ```shell
 cd `keystone-sdk`
 mkdir build
