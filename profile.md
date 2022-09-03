@@ -63,9 +63,12 @@ layout: default
 
 # Achievements
 ## WITH Peer-Review
-1. [ **Yu Omori**, Keiji Kimura, *"Performance Evaluation on NVMM Emulator Employing Fine-Grain Delay Injection"*, The 8th IEEE Non-Volatile Memory Systems and Applications Symposium (IEEE NVMSA 2019), Aug. 2019](https://ieeexplore.ieee.org/document/8863522)
-2. [ **Yu Omori**, Keiji Kimura, *"Non-Volatile Main Memory Emulator for Embedded Systems Employing Three NVMM Behaviour Models IEICE TRANSACTIONS on Information and Systems"*, IEICE Transactions on Information and Systems, Vol. E104-D, No. 5, pp.697-708, May. 2021.](https://doi.org/10.1587/transinf.2020EDP7092)
+4. [ **Yu Omori**, Keiji Kimura, *"Open-Source Hardware Memory Protection Engine Integrated With NVMM Simulator"*, IEEE Computer Architecture Letters, Vol. 21, Issue 2, pp.77-80, Aug. 2022.](https://doi.org/10.1109/LCA.2022.3197777)
 3. [ **Yu Omori**, Keiji Kimura, *"Open-Source RISC-V Linux-Compatible NVMM Emulator"*, Sixth Workshop on Computer Architecture Research with RISC-V (CARRV 2022), co-located with ISCA'22, Jun. 2022.](https://carrv.github.io/2022/)
+2. [ **Yu Omori**, Keiji Kimura, *"Non-Volatile Main Memory Emulator for Embedded Systems Employing Three NVMM Behaviour Models IEICE TRANSACTIONS on Information and Systems"*, IEICE Transactions on Information and Systems, Vol. E104-D, No. 5, pp.697-708, May. 2021.](https://doi.org/10.1587/transinf.2020EDP7092)
+1. [ **Yu Omori**, Keiji Kimura, *"Performance Evaluation on NVMM Emulator Employing Fine-Grain Delay Injection"*, The 8th IEEE Non-Volatile Memory Systems and Applications Symposium (IEEE NVMSA 2019), Aug. 2019](https://ieeexplore.ieee.org/document/8863522)
+
+
 
 ## WITHOUT Peer-Review
 1. [**大森 侑**、木村 啓二, *"不揮発性メインメモリエミュレータの評価"*, ETNET2019, Mar. 2019.](https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_uri&item_id=195099)
@@ -91,4 +94,5 @@ layout: default
 # Links
 - [researchermap](https://researchmap.jp/yuomori)
 - [LinkedIn](https://www.linkedin.com/in/yu-omori-269987191/)
+- [Twitter](https://twitter.com/uyiromo/)
 - [Qiita](https://qiita.com/uyiromo)
