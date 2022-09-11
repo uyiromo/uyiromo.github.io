@@ -14,7 +14,6 @@ layout: default
 - He received B.E and M.E from Waseda University in 2019 and 2020, respectively.
 - My research topics are **RISC-V**, **NVMM (Non-Volatle Main Memory)**, **TEE (Trusted Execution Environment)**, **MPE (Memory Protection Engine based on Integrity Tree)**
 - My interests are in cloud computing, virtualization, compilers, infrastructures (low-layer technologies).
-- **Creating new frameworks or libraries are attracts me more than only using them**
 
 <br clear="all">
 
@@ -86,6 +85,49 @@ layout: default
 ## theses
 - Bechelor (2019/03) : 「FPGA上への不揮発性メインメモリ評価環境実装」
 - Master (2020/03) : 「粗粒度及び細粒度遅延挿入による組み込み向け不揮発性メインメモリエミュレータの実装」
+
+# Machines
+- Windows11
+  - Core i5-12600K
+  - DDR4 16Gx4
+  - NVIDIA GeForce RTX 3060Ti (GG-RTX3060Ti-E8GB)
+  - NB-INT-X520DA1-S
+- Ubuntu
+  - NUC7CJYH 
+  - DHCP (ISC-DHCP-Server)
+  - VPN (WireGuard)
+  - MTA (Postfix)
+- TrueNAS
+  - Pentium Gold 6400
+  - DDR4 8GBx4
+  - NB-INT-X520DA1-S
+  - System: 250GB (Mirror 250GBx2) 
+  - Main: 16TB (RAID-Z2 4TBx6)
+  - ESXi DataStore: 500GB (Mirror 500GBx2)
+- VMWare ESXi
+  - DeskMini H470
+  - Core i5-10400
+  - DDR4 16GBx2
+- QSW-308S
+
+# Interests
+- Linux
+  - Debian, Fedora, ArchLinux, Alpine
+- Programming Language
+  - Rust, C++, Go, Ruby, Perl, Julia, Nim
+- Compiler
+  - LLVM
+- Container
+  - Docker, Kubernates
+- Cloud
+  - AWS, GCP, Azure
+- Simulator/Emulator
+  - QEMU
+- Virtualization
+  - Xen, KVM  
+- Other
+  - Blockchain
+
 
 # Contacts
 ![](https://user-images.githubusercontent.com/19767885/123014980-553cc080-d402-11eb-9f2e-3c9f150c5dc6.jpg)
