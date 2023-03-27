@@ -7,13 +7,16 @@ layout: default
 
 # Short bio
 <img src="https://user-images.githubusercontent.com/19767885/176591190-6bf883d7-061a-41ba-9c3e-4155da6a6406.jpg" width="400px" align="right">
+(at Top of the Rock =>)
 
 
-- Ph.D student (2020/04 - ) at Graduate School of Fundemental Science and Engineering, Waseda University
-  - also Research Associates (2021/04 - ) at Department of Computer Science and Engineering
+- He received Doctor of Engineering from Waseda University in 2023.
+  - Graduate School of Fundemental Science and Engineering, Waseda University
+  - Research Associates (2021/04 - 2023/03) at Department of Computer Science and Engineering
 - He received B.E and M.E from Waseda University in 2019 and 2020, respectively.
-- My research topics are **RISC-V**, **NVMM (Non-Volatle Main Memory)**, **TEE (Trusted Execution Environment)**, **MPE (Memory Protection Engine based on Integrity Tree)**
-- My interests are in cloud computing, virtualization, compilers, infrastructures (low-layer technologies).
+- His research topics are **RISC-V**, **NVMM (Non-Volatle Main Memory)**, **TEE (Trusted Execution Environment)**, **MPE (Memory Protection Engine based on Integrity Tree)**
+- Intersts:
+  - cloud computing, virtualization, compilers, infrastructures (low-layer technologies).
 
 <br clear="all">
 
@@ -30,7 +33,7 @@ layout: default
 
 
 
-# Laboratory
+# Laboratory during Waseda University
 - [Kimura laboratory, Waseda University](http://www.apal.cs.waseda.ac.jp/)
 - [Supervised by Prof. Keiji Kimura](http://www.apal.cs.waseda.ac.jp/kimura/index.html)
 
@@ -54,11 +57,11 @@ layout: default
 
 # Educational Background
 - 2013/04 - 2014/03 : Yamanashi Prefectural Kofu-Nishi High School, Japan
-- 2015/04 - Now : Waseda University, Japan
+- 2015/04 - 2023/03 : Waseda University, Japan
   - 2015/04 - 2019/03 : School of Fundamental Science and Engineering
   - 2019/04 - 2020/03 : Graduate School of Fundamental Science and Engineering (Master Course)
     - **I was certified as excellent student and researcher, and graduate Master Coarse in 1 year !**
-  - 2020/04 - Now     : Graduate School of Fundamental Science and Engineering (Ph.D Course)
+  - 2020/04 - 2023/03 : Graduate School of Fundamental Science and Engineering (Ph.D Course)
 
 # Achievements
 ## WITH Peer-Review
@@ -85,30 +88,7 @@ layout: default
 ## theses
 - Bechelor (2019/03) : 「FPGA上への不揮発性メインメモリ評価環境実装」
 - Master (2020/03) : 「粗粒度及び細粒度遅延挿入による組み込み向け不揮発性メインメモリエミュレータの実装」
-
-# Machines
-- Windows11
-  - Core i5-12600K
-  - DDR4 16Gx4
-  - NVIDIA GeForce RTX 3060Ti (GG-RTX3060Ti-E8GB)
-  - NB-INT-X520DA1-S
-- Ubuntu
-  - NUC7CJYH 
-  - DHCP (ISC-DHCP-Server)
-  - VPN (WireGuard)
-  - MTA (Postfix)
-- TrueNAS
-  - Pentium Gold 6400
-  - DDR4 8GBx4
-  - NB-INT-X520DA1-S
-  - System: 250GB (Mirror 250GBx2) 
-  - Main: 16TB (RAID-Z2 4TBx6)
-  - ESXi DataStore: 500GB (Mirror 500GBx2)
-- VMWare ESXi
-  - DeskMini H470
-  - Core i5-10400
-  - DDR4 16GBx2
-- QSW-308S
+- Doctor (2023/03) : 「Studies on Evaluation Platforms for DRAM/NVMM Heterogeneous and Secure Computing Memory Systems」
 
 # Interests
 - Linux
