@@ -9,12 +9,12 @@ layout: default
 <img src="https://user-images.githubusercontent.com/19767885/176591190-6bf883d7-061a-41ba-9c3e-4155da6a6406.jpg" width="400px" align="right">
 (at Top of the Rock =>)
 
-
+- He is a Engineer at Fixstars Corporation (2023/04 - Now)
 - He received Doctor of Engineering from Waseda University in 2023.
   - Graduate School of Fundemental Science and Engineering, Waseda University
   - Research Associates (2021/04 - 2023/03) at Department of Computer Science and Engineering
 - He received B.E and M.E from Waseda University in 2019 and 2020, respectively.
-- His research topics are **RISC-V**, **NVMM (Non-Volatle Main Memory)**, **TEE (Trusted Execution Environment)**, **MPE (Memory Protection Engine based on Integrity Tree)**
+  - His research topics are **RISC-V**, **NVMM (Non-Volatle Main Memory)**, **TEE (Trusted Execution Environment)**, **MPE (Memory Protection Engine based on Integrity Tree)**
 - Intersts:
   - cloud computing, virtualization, compilers, infrastructures (low-layer technologies).
 
